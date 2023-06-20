@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    background-color: #171133;
+    max-width: 50em;
+    color: white;
+    margin: auto; 
+}
+
+a{
+    display: block; 
+    color: #333;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+img{
+    height: 100px;
+}
+
+#CovidNews{
+    width: 1199px;
+    height: 490px;
+    left: 360.5px;
+    right: 360.5px;
+}
